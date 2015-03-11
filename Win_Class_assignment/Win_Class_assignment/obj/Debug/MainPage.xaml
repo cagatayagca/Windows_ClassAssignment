@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Win_Class_assignment.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Win_Class_assignment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+
+
+
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Image x:Name="img_viewer" HorizontalAlignment="Left" Height="177.591" Margin="79.828,112.727,0,0" VerticalAlignment="Top" Width="243.104" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto"   >
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-15.361"/>
+            </Image.RenderTransform>
+        </Image>
+
+
+
+        <Image x:Name="img_viewer2" HorizontalAlignment="Left" Height="196.867" Margin="791.861,146.268,0,0" VerticalAlignment="Top" Width="194.024" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="15.587"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="img_viewer3" HorizontalAlignment="Left" Height="216.581" Margin="1105.919,184.605,0,0" VerticalAlignment="Top" Width="219.414" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-11.979"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="img_viewer4" HorizontalAlignment="Left" Height="160" Margin="453.299,132.508,0,0" VerticalAlignment="Top" Width="254" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="15.184"/>
+            </Image.RenderTransform>
+        </Image>
+
+        <Button x:ConnectionId='1' Content="CLICK ME!" HorizontalAlignment="Left" Margin="218,643,0,0" VerticalAlignment="Top" Width="1013"                      Height="87"/>
+        <TextBox x:Name="txt" HorizontalAlignment="Left" Margin="74,505,0,0" Text="That was a shiny day, our dear friend was really hungry. Then he saw the leftovers from the party yesterday, that was a really great news. Those are the impressions from that feeling." VerticalAlignment="Top" IsReadOnly="True" FontSize="24" TextWrapping="Wrap" CharacterSpacing="5" FontWeight="Bold" Visibility="Collapsed"/>
+
+
+    </Grid>
+</Page>
+

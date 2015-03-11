@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>S244-7</Machine>
+    <WindowsUser>kasutaja</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3c791f73-7b21-42f4-95b1-c21cc704d6aa</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3958CB3EE47314BC4BA00C85E0209C77F488E9FA09BC1EBC904BEA6F5352095B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3c791f73-7b21-42f4-95b1-c21cc704d6aa_1.0.0.0_neutral__t9n5hq9f0022a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3c791f73-7b21-42f4-95b1-c21cc704d6aa_t9n5hq9f0022a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3c791f73-7b21-42f4-95b1-c21cc704d6aa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kasutaja</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-11T17:40:41.661</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\bin\Debug\Win_Class_assignment.exe">
+      <PackagePath>Win_Class_assignment.exe</PackagePath>
+      <Modified>2015-03-11T17:49:10.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-11T16:20:18.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-11T17:47:33.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\bin\Debug\Win_Class_assignment.xr.xml">
+      <PackagePath>Win_Class_assignment.xr.xml</PackagePath>
+      <Modified>2015-03-11T17:47:33.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kasutaja\documents\visual studio 2013\Projects\Win_Class_assignment\Win_Class_assignment\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-11T17:40:41.507</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
